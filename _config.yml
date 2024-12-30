@@ -33,3 +33,35 @@ defaults:
       author_profile: true
       share: true
 
+# Social Links
+social:
+  twitter: "https://twitter.com/YourTwitterHandle"
+  linkedin: "https://linkedin.com/in/YourLinkedInProfile"
+  github: "https://github.com/MahdiMaleki"
+
+# Markdown Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# SEO
+seo:
+  og_image: "/assets/images/og_image.png"  # Add Open Graph Image
+
+# Plugins (Default GitHub Pages Plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Output Settings
+permalink: /:title/  # Pretty URLs
+paginate: 5  # Number of posts per page
+
+# Include/Exclude Files
+include:
+  - assets
+exclude:
+  - README.md
+
