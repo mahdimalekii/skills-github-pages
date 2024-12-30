@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Mahdi"
 title_separator          : "-"
 name                     : &name "Dr Mahdi Maleki"
-url: "https://MahdiMaleki.github.io/skills-github-pages"  # Your GitHub Pages URL
-baseurl: ""  # Leave blank unless using a subdirectory
+url: "https://MahdiMaleki.github.io/"  # Your GitHub Pages URL
+baseurl: "skills-github-pages"  # Leave blank unless using a subdirectory
 theme: jekyll-theme-cayman  # Pre-built theme for styling
 
 # Navigation Links
