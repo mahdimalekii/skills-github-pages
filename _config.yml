@@ -23,3 +23,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Defaults for Pages and Posts
+defaults:
+  - scope:
+      path: ""  # Apply to all files
+    values:
+      layout: default
+      author_profile: true
+      share: true
+

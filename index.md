@@ -3,4 +3,5 @@ layout: default
 title: "Home"
 ---
 # Welcome to My Website
-Hello! I’m Mahdi Maleki, and this is my personal website.
+Hello! I’m **Mahdi Maleki**, and this is my personal website.
+![Profile Picture](/assets/images/profile.jpg)
