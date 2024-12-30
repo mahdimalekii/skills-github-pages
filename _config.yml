@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Mahdi"
 title_separator          : "-"
 name                     : &name "Dr Mahdi Maleki"
-description              : &description "wireless communication in machine learning researcher"
+url: "https://MahdiMaleki.github.io"  # Your GitHub Pages URL
+baseurl: ""  # Leave blank unless using a subdirectory
+theme: jekyll-theme-cayman  # Pre-built theme for styling
 
-
-theme: jekyll-theme-cayman
-
+# Navigation Links
 header_pages:
   - index.md
   - about.md
